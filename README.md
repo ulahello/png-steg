@@ -44,5 +44,5 @@ should ignore it. The key and nonce are included as well, so in
 practice this is "encoding", as no secrets are required to decrypt the
 data.
 
-For more information, see [the
-specification](http://www.libpng.org/pub/png/spec/1.2/PNG-Structure.html)
+For more information, see the
+[specification](http://www.libpng.org/pub/png/spec/1.2/PNG-Structure.html).
